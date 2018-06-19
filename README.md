@@ -20,7 +20,11 @@ on search engines is a must have for every website. Keep that in mind.
 The main functionality of Bootstrap 4 is that whenever the page resized it fits every image,
 buttons, words, and layout to fit on smaller display devices. These include phones & tablets.
 
-Read my code to understand how it was made.
+Read my code to understand how it was made. 
+
+Download it as a .zip folder and run it on a text editor.
+
+Thank you.
 
 Best regards, 
 Christian
