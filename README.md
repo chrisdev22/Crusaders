@@ -26,5 +26,6 @@ Download it as a .zip folder and run it on a text editor.
 
 Thank you.
 
-Best regards, 
-Christian
+Sincerely,
+
+Christian R.
