@@ -64,7 +64,7 @@ html, body {
 
 .welcome {
   width: 75%;
-  margin: 0 auto ;
+  margin: 0 auto;
   padding-top: 2rem;
 }
 
@@ -157,6 +157,12 @@ hr.light-100 {
   width: 100%;
   margin-top: .8rem;
   margin-bottom: 1rem;
+}
+
+.img-fluid {
+  width: 100%;
+  justify-content: center;
+  flex-wrap: center;
 }
 
 /*--- Media Queries ---*/
